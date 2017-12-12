@@ -2,7 +2,7 @@
 ### Índice
 
 * HTML
-    * [Etiquetas](###Variables)
+    * [Etiquetas](###variables)
     * 
     * 
     * 
