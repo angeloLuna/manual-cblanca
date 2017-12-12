@@ -2,7 +2,7 @@
 ### Índice
 
 * HTML
-    * Equitetas
+    * [Etiquetas](###Variables)
     * 
     * 
     * 
@@ -90,6 +90,26 @@ Dentro de esta etiqueta va todo el contenido que los usuarios van a ver a travé
 <!-- Convierte al contenido de la etiqueta "a" en un hipervinculo a donde est´é especificado dentro del parametro "href" -->
 <a href="link">Esto es ahora un link</a>
 ```
+**ul**
+```html
+<!-- Lista desordenada, es una etiqueta de tipo bloque que va a contener elementos de lista -->
+<ul>
+</ul>
+```
+**li**
+```html
+<!-- Elementos de lista van siempre dentro de una etiqueta ol o ul  -->
+<ul>
+    <li>Primer elemento</li>
+    <li>Segundo</li>
+    <li>Tercero</li>
+    <li>Cuarto</li>
+</ul>
+```
+
+
+
+
 
 
 ### Variables
