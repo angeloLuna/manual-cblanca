@@ -109,11 +109,53 @@ Dentro de esta etiqueta va todo el contenido que los usuarios van a ver a travé
 
 ### Modelo de caja
 
+### Formularios
+
+Son secciones del documento donde los usuarios pueden interactuar con el sitio web, proporionando información a través de elementos llamados inputs, estos pueden ser campos de texto, botones, casillas de selección etc.
+
+Se usa la etiqueta `<form>` y tiene algunas propiedades como `name` y `action`
+
+```html
+<form name="myForm" id="greatForm" action="">
+    
+</form>
+```
+
+##### action
+Corresponde a una propiedad con la que indicamos la url donde queremos enviar esa información del formulario.
+> para el cinta blanca no vamos a usar este parámetro
+
+##### name
+Le damos un nombre
+
+##### Inputs
+Son las etiquetas con las que el usuario ingresa información al form.
+**text**
+```html
+<-- un campo de tipo texto-->
+<input type="text">
+```
+
+**email**
+```html
+<-- un campo de que interpreta el formato de un correo electrónico-->
+<input type="email">
+```
 
 
 
-### Variables
 
-###### Asignación de variables y tipos de datos
-Una variable es un elemento al que le damos un nombre y puede contener datos.
-Para definir una variable se usa la palabra reservada `var` seguida del nombre que le queremos dar y usando el simbolo de igual `=` le asignamos el valor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
