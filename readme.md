@@ -108,6 +108,7 @@ Dentro de esta etiqueta va todo el contenido que los usuarios van a ver a travé
 ```
 
 ### Modelo de caja
+** pendiente... **
 
 ### Formularios
 
